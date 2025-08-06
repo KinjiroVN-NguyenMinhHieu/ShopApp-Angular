@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.angular-logo {
+    width: 100px;
+}
+.shopping-cart {
+    width: 50px;
+}

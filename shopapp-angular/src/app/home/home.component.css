@@ -1,0 +1,9 @@
+.wrapper-cart {
+    background-color: blueviolet;
+    padding: 1rem;
+    min-height: 100vh;
+}
+.wrapper-cart h1 {
+    text-align: center;
+    color: white;
+}

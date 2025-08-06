@@ -1,0 +1,41 @@
+.group-cart {
+    width: 75%;
+    background-color: aliceblue;
+    margin: auto;
+    padding: 2rem;
+    border-radius: 4px;
+}
+.header-cart {
+    display: flex;
+    padding: 1rem;
+    background-color: beige;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: medium;
+}
+.body-cart {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+.row-cart {
+    display: flex;
+    align-items: center;
+}
+.col-1 {
+    flex: 1;
+}
+.col-2 {
+    flex: 1.5;
+}
+.col-3 {
+    flex: 1;
+}
+.col-4 {
+    flex: 0.5;
+}
+.button-main {
+  border: none;  
+}
